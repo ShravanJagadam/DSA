@@ -1,0 +1,7 @@
+1.RearrangeSequnce1
+2.RearrangeSequnnce2
+3.RearrangeSequnce3
+4.Non-Decreasing Subsequnces count(BF,slightly optimised?)
+5.Maximum contiguous subsequence
+6.Summ of OR of subarrays  ( learn how to -->2ways of counting the subarrays whose AND at each bit is non-zero)
+7.Sum of AND of subarrays (learn how to -->count the no of subarrays whose AND at each bit is non-zero)

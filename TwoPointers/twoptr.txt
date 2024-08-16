@@ -1,0 +1,1 @@
+1.Given 2 strings A and B, check if A is present as a subsequence in B.

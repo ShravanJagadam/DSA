@@ -1,0 +1,18 @@
+1.Clockiwise rotation of the array k times and print the array 
+2.Collecting Water in between  buildings.
+3.Closing Triplets : Given three arrays A, B, and C, choose a triplet a, b, c such that a, b, 
+and c belong to the arrays A, B, and C respectively,  minimize |max(a,b,c)-min(a,b,c)|.
+4.Equal 0's and 1's (Find the length of the longest "SUBARRAY" having equal no of 0's and 1's)
+5.Number of valid subarrays : given arrays consisting only 1's and 0's, find the number of subarrays 
+having equal no of 0's and 1's
+6.First missing positive integer without using any extra space except the input array.
+7.Rotated Sorted Array Search  *
+8.Pick from both sides
+
+
+
+
+
+
+
+

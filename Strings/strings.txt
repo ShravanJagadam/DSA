@@ -1,0 +1,2 @@
+1.Rank of the string when ordered in lexicographical ordered(No duplicate characters)
+2.Rank of the string when ordered in lexicographical ordered(When duplicates are present)

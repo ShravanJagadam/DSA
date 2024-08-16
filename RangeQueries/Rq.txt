@@ -1,0 +1,13 @@
+1.Sum with Queries :
+For each query, increment each element of the array from index i to j by a value of x. 
+At the end, print the sum of all the elements of the array.
+
+2.Max element wiht Queries:
+For each query, increment each element of the array from index i to j by a value of x.
+At the end, print the largest element of the array.
+
+3.Exclusion Product : You are given an array of integers of size N. Create a new array such that the 
+element at an index i in the new array is the product of all the elements of the original array 
+except the element present at index i.
+
+4.
