@@ -1,0 +1,8 @@
+1.Implement LinkedList
+2.swap adjacent nodes in pairs of LinkedList *
+3.Remove nth node from the list end.
+4.Remove Nodes which has the val as given value x.
+5.Swap the values in the kth node from the begining and kth node from the end. *
+6.Remove Nodes from LL (Invloves deque and LL : leetcode 2487)
+7.Delete Nodes from LL present in the Array(leetcode 3217)
+

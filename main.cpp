@@ -33,43 +33,21 @@ int main()
     cin.exceptions(cin.failbit);
 
 
+    string s;
+    cin >> s;
 
-    ll t, N,A, B;
-     cin >> t ;
+    int k = s.find("Z");
 
+    cout<<k<<endl;
 
-    while(t--){
+   
 
-        cin >>N >> A >> B;
-        vector<ll> ar(N);
-        cout<<"***"<<endl;
-        for(int i =0; i<N; i++){
-            cin >> ar[i];
-        }
-
-        for(ll i =0; i<N ; i++)
-            cout<<ar[i]<<endl;
-
-        sort(ar.begin(), ar.end());
-        
-        int count = 0;
-
-        for(int i =0;i<N; i++){
-            ll sum = 0;
-            for(int j =i;j<N; i++){
-                sum += ar[j];
-                if(sum >= A && sum <= B)
-                    count++;
-            }
-        }
-        cout<<count<<endl;
-
-    }
+    
 }
-
 static const int __ = [](){
     ios::sync_with_stdio(false);
     cin.tie(0);
     cout.tie(0);
     return 0;
 }();
+

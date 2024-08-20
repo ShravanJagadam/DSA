@@ -1,0 +1,5 @@
+1.Impelement the stac using array
+2.Reverse the sentence word by word
+3.Get max element in the stack
+4.StockSpan **
+5.Rectangular area under histogram **

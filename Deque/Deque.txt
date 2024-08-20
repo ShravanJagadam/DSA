@@ -1,0 +1,2 @@
+1.Find the maximum of each window of size K or sum of all max of all the windows
+2.Remove Nodes from the LL (Leetcode 2487 )

@@ -1,0 +1,2 @@
+1.Zig-Zag traversal of the matrix
+2.Matrix Transpose
