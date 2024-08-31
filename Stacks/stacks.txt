@@ -1,4 +1,4 @@
-1.Impelement the stac using array
+1.Impelement the stack  using array
 2.Reverse the sentence word by word
 3.Get max element in the stack
 4.StockSpan **

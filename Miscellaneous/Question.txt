@@ -1,4 +1,0 @@
-1.Quadraplets of xor
-2.Sum of 2 Numbers --.Checck if there exist a pair whose sum is  equal to 
-the sum of remaining elements of the array.
-3.

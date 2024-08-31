@@ -94,12 +94,18 @@ int main() {
                 cout<<"Empty"<<endl;
             else    
                 cout<<ar[p--]<<endl;
-        }   
-
-
-
-
-
+        }  
     } 
     return 0;
 }
+
+/*
+Create an array of size N and a variable t intialzed to -1
+int t = -1;
+Each time you want to push an element 
+push --> t++, ar[t] = x; 
+pop -->t--;
+size = t+1;
+
+
+*/

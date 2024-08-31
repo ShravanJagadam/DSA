@@ -1,8 +1,30 @@
 1.Implement LinkedList
 2.swap adjacent nodes in pairs of LinkedList *
-3.Remove nth node from the list end.
-4.Remove Nodes which has the val as given value x.
-5.Swap the values in the kth node from the begining and kth node from the end. *
-6.Remove Nodes from LL (Invloves deque and LL : leetcode 2487)
-7.Delete Nodes from LL present in the Array(leetcode 3217)
+3.Remove Nodes from LL (Invloves deque and LL : leetcode 2487)
+4.Delete Nodes from LL present in the Array(leetcode 3217)
+5.Remove Duplicates from Sorted List II(interviewBit)
+6.Sort the LL in (Nlog(N)) time and constant space.
+7.Add Two Numbers as Lists(Interview Bit);
+8.Rotate LL(interviewBit);
+9.copy(clone) list with random pointer
+10.Linked List Cycle II(leetcode 142)
+11.Partition List(Leetcode 86)
+12.ReorderList(143:Leetcode)
+13.Odd Even Linked List(Leetcode 328)
 
+Basics: 
+1.Detect a Cycle in SLL
+2.Remove nth node from the list end.
+3.Remove Nodes which has the val as given value x.
+4.Swap the values in the kth node from the begining and kth node from the end. *
+5.Reverse the SLL(Iterative and Recursive)
+6.Reverse the LL from position x to position y
+7
+
+
+
+
+Notes : 
+While solving problems on LLs, make sure to track what happens at the end of the LL 
+There are chance that the Last node is pointing to something that is undesireable 
+Make sure to check that and break it in case it is not needed.

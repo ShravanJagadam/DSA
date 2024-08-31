@@ -1,0 +1,13 @@
+1.Quadraplets of xor
+2.Sum of 2 Numbers --.Checck if there exist a pair whose sum is  equal to 
+the sum of remaining elements of the array.
+3.Express as a power b.(can we express given "N" as a power b or not)
+4.Express as  power sum (No of ways a NUmber N can be expressed as sum of power of unique natural numbers)
+5.Toggle01
+
+
+
+
+
+Basic : 
+1.CheckerboardPattern
