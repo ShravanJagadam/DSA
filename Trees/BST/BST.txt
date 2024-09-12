@@ -1,0 +1,9 @@
+1.BST operations(search,insert,delete).
+2.height of the tree
+3.Pre,In,Post Order Tree Traversals.(TreeTraversals)
+4.Depth of the BST tree Nodes
+5.Level Order of the tree, print each level in a new line.
+6.Zig - Zag traversal of the tree
+7.Bottom UP LevelOrder Traversal.
+8.Trim BST. Given a  range [L,R], remove all the nodes that doesnt lie in the given range.
+9.Recover Binary search Tree.

@@ -1,0 +1,24 @@
+
+basic 
+1.Full Binary Tree (check if the BT is a FBT or not ) FBT : 0 or 2 child nodes for each node 
+2.Check if the given BST is a complete Binary tree : CBT : every level is filled completely expect the last level, which would be filled from left to right.
+3.check BST (check if the given binary tree is a BST or not)
+4.Left view of the Binary tree.
+5.Right view of the binary tree.
+6.Count of Nodes at distance K from the source node.
+
+
+
+
+Medium
+1.Preorder Inorder to Postorder    :     Print the postOrder from the preOrder and InOrder traversals of the binary tree(2 Approaches : construct a binary tree and then print postOrder, Approach 2 : directly print the postOrder without constructing the binary tree)
+2.Sum of Numbers from Root to Leaf Paths
+3.vertical Order Traversal.
+4.Diagonal Order Traversal;
+5.Top view of the tree ( 2 Approaches )
+6.Least(Lowest) common Ancestor (LCA) of Binary Search Tree.
+7.Diameter of the tree
+8.Width of the tree.
+
+
+
