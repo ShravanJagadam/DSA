@@ -1,2 +1,2 @@
-1.Optimal prime game
-2.Greedy Prime game
+1.Optimal prime game.
+2.Greedy Prime game.
