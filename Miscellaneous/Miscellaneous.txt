@@ -12,3 +12,4 @@ the sum of remaining elements of the array.
 
 Basic : 
 1.CheckerboardPattern
+2.Find the excel column name for the given column number N

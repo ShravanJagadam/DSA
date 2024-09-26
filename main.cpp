@@ -20,6 +20,27 @@ typedef map<int, int> mii;
 typedef long double ld;
 typedef long long int lli;
 
+int jump(vector<int> &A) {
+    
+    
+    if(A.size() ==1 && A[0] == 0)    
+        return 0;
+    int n1 = A.size();
+    int v[n1];
+    fill(v,v+n1,INT_MAX);
+    
+    v[0] = 0;
+    
+    for(int i =0; i<n1; i++){
+        if(v[i] != INT_MAX){
+            for(int j = 1; j <= A[i] && i+j < n1; j++ )
+                v[i+j] = min(v[i+j], v[i]+1);
+        } 
+    }
+    
+    return (v[n1-1] == INT_MAX ? -1 : v[n1-1]);
+}
+
 
 int main()
 {
@@ -35,20 +56,9 @@ int main()
     //**************************************************************************************
     //start you code here
 
-    map<int, vector<int>> mp;
-
-    mp[0].push_back(1);
-    mp[0].push_back(5);
-
-    mp[1].push_back(7);
-    mp[3].push_back(10); 
-
-    for(auto x : mp){
-        for(auto y : x.second)
-            cout<<y<<" ";
-        cout<<endl;
-    }
-
+    
+    vector<int> A = {0};
+    cout<<jump(A)<<endl;
     
 
 

@@ -1,0 +1,22 @@
+basic
+1.Compute factorial (space optimised without storing all previous factorials)
+2.Arranging  Dominos easy
+3.Arranging Dominos Hard.
+4.BinaryStrings without adjacent ones
+
+
+
+
+
+Medium : 
+1.Jump game array, check if we can reach the last index or not 
+2.Jobs and Machine
+3.Painting Houses
+4.Maximum Non-Adjacent subsequence sum.
+5.ComputeNCR
+6.LIS (N^2 Solution and N Soltuion)
+7.Bitnoic Sequence.
+7.Knapsack (Integer Knapsack) -->  0-1 Knapsack
+8.Subset Sum->check if there is subset with given sum
+9.Count Subset Sums Equals K ->Count the no of ways of selecting a subset such that the sum is K
+10.Forbidden Skipping.  Find the max sum of a subsequence on a condition such that if you skip ith element, you cannot skip "i-1"th and "i+1"th element.

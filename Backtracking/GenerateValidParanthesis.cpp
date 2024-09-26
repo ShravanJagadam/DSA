@@ -37,7 +37,9 @@ public:
     vector<string> generateParenthesis(int n) {
 
         vector<string> res;
-        int op =1, cl=0;// count of opening and count of closing
+        int op =1, cl=0;// count of opening and count of closing brackets
+        
+        int n = 3; 
         solve(2*n,op,cl,"(",res);
         return res;
     }

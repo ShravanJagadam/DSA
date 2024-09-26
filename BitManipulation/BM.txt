@@ -1,1 +1,9 @@
 1.swap Adjacent bits
+
+
+
+
+
+Basic: 
+1.checkBit : check if the ith bit is set bit or not
+2.
