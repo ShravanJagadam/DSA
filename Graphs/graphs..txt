@@ -1,0 +1,10 @@
+Basic 
+1.Detect a cycle in undirected graph
+    i.if the neighbour of a curr_node is visited and its not the parent of the curr_node, cycle exist-->DFS
+    ii.At any node is the count of visited neighbours >=2, cycle exists
+    iii.|E| == |V|-1, cycle doesnt exist, else cycle exist.(formula is valid in a connected component)
+    iv. using BFS
+    v.Union - Find DS
+2.Detect cycle in a directed graph
+    i.using dfs ->recursion stack , back edge
+    ii.Toposort ->Do the toposort, if the res list doesnt contain all the nodes, then there is a cycle

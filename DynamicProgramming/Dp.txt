@@ -20,3 +20,4 @@ Medium :
 8.Subset Sum->check if there is subset with given sum
 9.Count Subset Sums Equals K ->Count the no of ways of selecting a subset such that the sum is K
 10.Forbidden Skipping.  Find the max sum of a subsequence on a condition such that if you skip ith element, you cannot skip "i-1"th and "i+1"th element.
+11.Path in a Matrix (Number of ways to reach the bottom-right corner from top-left corner)

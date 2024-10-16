@@ -100,7 +100,7 @@ int main() {
         //for each index , find the index of the element on left which is smaller than the current element.
         //for each index , find the index of the element on right which is smaller than the current element.
 
-        vector<lli> L(N,-1); 
+        vector<lli> L(N,-1);
         vector<lli>R(N,N);
 
         //finding L --> are there any potential answers on the left(ie in the stack ) for current element
@@ -147,7 +147,7 @@ int main() {
 
 
     }
-
+e
     return 0;
 }
 

@@ -55,10 +55,10 @@ int main()
 
     //**************************************************************************************
     //start you code here
-
-    
-    vector<int> A = {0};
-    cout<<jump(A)<<endl;
+    const int a = 5; 
+    int b = 6;
+    a = 7;
+    cout<<a+b<<endl;
     
 
 
