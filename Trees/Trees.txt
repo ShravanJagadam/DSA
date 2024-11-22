@@ -19,6 +19,7 @@ Medium
 6.Least(Lowest) common Ancestor (LCA) of Binary Search Tree.
 7.Diameter of the tree
 8.Width of the tree.
+9.Maximum Path Sum 
 
 
 

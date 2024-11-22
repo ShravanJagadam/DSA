@@ -8,7 +8,20 @@ having equal no of 0's and 1's
 6.Find First missing positive:    integer without using any extra space except the input array.
 7.Rotated Sorted Array Search *
 8.Pick from both sides
-9.
+9.Largest Concatenated Number (String comparision).
+
+
+
+2 Pointer  Technique
+1.Non-Divisible subsets:length of the subset such that sum of any 2 elements is not divisible by K
+2.Sum of Pairs  a+b =  k  (find if there exist a pair (i,j) such that ar[i] + ar[j] == k(given) and (i!=j))
+3.Pair with difference k (a-b = k)
+4.Triplet with sum k  (a + b + c  = k) fix a and search for (b + c  = k - a) or otherway is fix a and b and then search for c(have a look at the approach using hashmap)
+
+The above 3 problems can we solved in 
+1.Brute Force 2.2 pointer  3.Hashing approach fix and element search for other 4.Binary search fix one element and search for other on right or left 
+
+
 
 
 

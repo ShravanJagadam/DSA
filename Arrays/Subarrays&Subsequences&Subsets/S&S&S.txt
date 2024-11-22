@@ -5,3 +5,8 @@
 5.Maximum contiguous subsequence
 6.Summ of OR of subarrays  ( learn how to -->2ways of counting the subarrays whose AND at each bit is non-zero)
 7.Sum of AND of subarrays (learn how to -->count the no of subarrays whose AND at each bit is non-zero)
+8.Print the subsets of the array in lexicographical order.
+
+
+Combinations
+1.Unique combinations such that the sum is k

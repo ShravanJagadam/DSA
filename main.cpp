@@ -40,6 +40,12 @@ int jump(vector<int> &A) {
     
     return (v[n1-1] == INT_MAX ? -1 : v[n1-1]);
 }
+long long GCD(int a, int b){
+    if(a == 0) return b; 
+    return GCD(b%a,a);
+}
+
+
 
 
 int main()
@@ -55,10 +61,37 @@ int main()
 
     //**************************************************************************************
     //start you code here
-    const int a = 5; 
-    int b = 6;
-    a = 7;
-    cout<<a+b<<endl;
+        vector<int> nums = {3};
+        int n = nums.size(); 
+        if(n == 0) return 0;
+        if(n == 1) return nums[0] * nums[0];
+        int gdc = GCD(nums[0],nums[1]);
+        for(int i =2; i<n; i++){
+            gdc = GCD(gdc,nums[i]);
+        }
+        cout<<"GCD is "<<gdc<<endl;
+        bool flag = false;
+        long long int p = 1;
+        int val;
+        for(int i=0;i<n; i++)
+        {
+            if(nums[i] == gdc){
+                val = nums[i];
+                flag = true; 
+                break;                
+            }
+            
+        }
+        for(int x : nums )
+            p = p*x;
+        cout<<" prod is "<<p<<endl;
+        long long int lmc = p/gdc;
+        cout<<"lcm is "<<lmc<<endl;
+
+        if(flag == true)
+            cout<< (lmc /n );
+        else 
+            cout<< p;
     
 
 

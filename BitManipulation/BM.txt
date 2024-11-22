@@ -1,4 +1,5 @@
 1.swap Adjacent bits
+2.TripleTrouble. every number is repeated thrice except 1 number , find that number
 
 
 

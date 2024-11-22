@@ -1,0 +1,1 @@
+1.MergeSort and its application to find the no of smaller elements on the right for each element in the array 
